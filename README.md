@@ -297,7 +297,7 @@
 - Change the email settings from POP3 to IMAP on both his smartphone and tablet.
 - Ensure that Amos's laptop is also configured to use IMAP for his email account, ensuring consistency across all devices.
 
-<img width="590" alt="amos2" src="https://i.imgur.com/2XAeg9o.png">
+<img width="590" alt="amos2" src="https://i.imgur.com/3BcjnMu.png">
 
 
 <p><strong>Test email synchronization by instructing Burt  to send a test email to himself and check if it appears across all his devices.</strong></p>
@@ -361,7 +361,7 @@
 - Update Printer IP Address on Jawson's Laptop
 - This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address. This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address.
 
-<img width="400" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/4dbe262a-bd46-4b65-aa6f-6ec1c563fec4">
+<img width="400" alt="printer" src="https://i.imgur.com/qNAhkM4.png">
 
 
 <p><strong>Verify connectivity by attempting to print a test page.</strong></p>
