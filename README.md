@@ -266,7 +266,7 @@
 
 <br>
 
-<img width="587" alt="Burt" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/95197f73-b04f-4690-9b39-40fbdcf0f4c1">
+<img width="587" alt="Burt" src="https://i.imgur.com/wL3iG42.png">
 
 
 
