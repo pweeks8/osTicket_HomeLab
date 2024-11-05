@@ -75,21 +75,19 @@
 - Once verification is done, modify Johns's user profile and assign the appropriate administrative privileges.
 - Ensure that his machine allows him remote access
 
+<p><strong>.</strong></p>
+<p><strong>.</strong></p>
+
+<p><strong>Configure specific permissions based on John's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
+
 <img width="300" alt="rdp" src="https://i.imgur.com/5kZlIh6.png">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<p><strong>Configure specific permissions based on James's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
-
-<img width="300" alt="3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5a6d9283-55be-4dcd-b231-00f24f59a361">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
 <h5>Communication:</h5>
 
-- Inform James that his admin rights have been granted successfully.
+- Inform John that his admin rights have been granted successfully.
 - Include a summary of the specific permissions he now holds and any relevant guidelines for responsible use.
 
 <h5>Documentation & Closure:</h5>
@@ -97,7 +95,7 @@
 - Document the completion of the admin rights activation in osTicket.
 -Close the ticket, indicating that the task has been completed, and provide documentation for future audits or inquiries.
 
-<img width="592" alt="Done w james " src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ceafdb4f-46bf-4e2a-abab-3368e586fdb6">
+<img width="592" alt="Done w john " src="https://i.imgur.com/L6dELth.png">
 
 
 <p><strong>.</strong></p>
@@ -105,18 +103,18 @@
 
 <h3>Scenario B: Addressing Slow System Performance </h3>
 
-<p><strong>User:</strong> Camina Drummer</p>
+<p><strong>User:</strong> Tristan Cannoli </p>
 
 <h4>Background:</h4>
 
 
-<p>Camina Drummer, a marketing manager, submits a ticket through osTicket, reporting a low memory warning and persistent slow performance on her workstation. As the IT helpdesk agent, your objective is to diagnose and resolve the issue to enhance Camina's overall system responsiveness.
+<p>Tristan Cannoli, a marketing manager, submits a ticket through osTicket, reporting a low memory warning and persistent slow performance on her workstation. As the IT helpdesk agent, your objective is to diagnose and resolve the issue to enhance Tristan's overall system responsiveness.
 
 </p>
 
 <br>
 
-<img width="593" alt="Camina ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/da8ff8c8-c719-4948-97bf-d0c98f192d32">
+<img width="593" alt="Tristan ticket" src="https://i.imgur.com/Mz2ZP8e.png">
 
 <br>
 <br>
@@ -125,25 +123,25 @@
 
 <h5> Initial Assessment:</h5>
 
-- Engage in a threaded discussion to gather more information about the specific performance issues Camina is encountering.
-- Request details such as recent software installations, background processes, and any error messages she might have encountered
+- Engage in a threaded discussion to gather more information about the specific performance issues Tristan is encountering.
+- Request details such as recent software installations, background processes, and any error messages he might have encountered
 
-<img width="592" alt="reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/c4f43105-eee5-4424-8c15-bd366b31b75f">
+<img width="592" alt="reply" src="https://i.imgur.com/4LYzIEA.png">
 
 
 <h5> Remote Diagnosis:</h5>
 
-- Utilize a remote desktop connection to conduct a  diagnosis of Camina's workstation.
+- Utilize a remote desktop connection to conduct a  diagnosis of Tristan's workstation.
 
 <h3> Specific Problem Identified:</h3>
 
-<p>Camina Drummer's workstation is experiencing slow performance and low memory warnings mainly due to not having enough RAM for her demanding marketing applications. These include graphic design and video editing software, along with many browser tabs open at once. A lack of regular cleanup, like deleting temporary files and optimizing disk space, has also made the system slower over time.</p>
+<p>Tristan Cannoli's workstation is experiencing slow performance and low memory warnings mainly due to not having enough RAM for his demanding marketing applications. These include graphic design and video editing software, along with many browser tabs open at once. A lack of regular cleanup, like deleting temporary files and optimizing disk space, has also made the system slower over time.</p>
 
 <h3> Resolution Steps:</h3>
 
 - Go to add or remove programs and delete any unnecessary applications
 
-<img width="400" alt="add or remove" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/f01f5105-360a-4262-9481-3b7fff5b7a2f">
+<img width="400" alt="add or remove" src="https://i.imgur.com/NuxsVI5.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -153,7 +151,7 @@
 
 - Empty the recycling bin to free up some disk space
 
-<img width="500" alt="recycle" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/0af4e499-0f29-4479-a88d-f12ceeda5867">
+<img width="500" alt="recycle" src="https://i.imgur.com/MuPIIjD.png">
 
 
 <p><strong>.</strong></p>
@@ -161,7 +159,7 @@
 
 <p><strong>Open the Disk Cleanup application and perform a cleanup.</strong></p>
 
-<img width="500" alt="cleanup" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7397a276-11ec-44ae-be1e-fcf6de194f2b">
+<img width="500" alt="cleanup" src="https://i.imgur.com/Yo45at0.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -170,16 +168,16 @@
 
 - After performing the tasks, diagnose the performance of the workstation 
 
-<img width="500" alt="on or off" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/6c301535-1b34-4c9b-a6e3-20d10207331a">
+<img width="500" alt="on or off" src="https://i.imgur.com/a1D7o19.png">
 
 
 <h5>Documentation & Closure:</h5>
 
-- Inform Camina through osTicket of the initial assessment findings.
+- Inform Tristan through osTicket of the initial assessment findings.
 - Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
-- Close the ticket within osTicket when Camina confirms the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
+- Close the ticket within osTicket when Tristan confirms the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
 
-<img width="591" alt="camina closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a43fa5ab-fb7a-4f1e-925c-0a750f806f79">
+<img width="591" alt="Tristan closed" src="https://i.imgur.com/bodyKm5.png">
 
 
 <p><strong>.</strong></p>
