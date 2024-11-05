@@ -8,7 +8,7 @@
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/kirkgacias/osticket-prereqs"> osTicket - Prerequisites, Setup, and Installation </a>
+- <a href="https://github.com/pweeks8/osTicket_Installation"> osTicket - Prerequisites, Setup, and Installation </a>
 
 <h2>Key Objectives</h2>
 
@@ -48,7 +48,7 @@
 
 <h3>Scenario A: Granting Admin Rights</h3>
 
-<p><strong>User:</strong> James Holden</p>
+<p><strong>User:</strong> John Jacob </p>
 
 <h4>Background:</h4>
 
