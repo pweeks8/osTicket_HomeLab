@@ -59,7 +59,7 @@
 
 <br>
 
-<img width="593" alt="James Holden first ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a0e9bf33-4860-4dbf-bd95-78abbf24e23e">
+<img width="593" alt="John Jacob first ticket" src="https://i.imgur.com/P2nzRMY.png">
 
 <br>
 <br>
@@ -68,14 +68,14 @@
 
 <h5> Verification</h5>
 
-- Validate James's identity and admin rights approval.
+- Validate John's identity and admin rights approval.
 
 <h5> Access Control Configuration:</h5>
 
-- Once verification is done, modify James's user profile and assign the appropriate administrative privileges.
+- Once verification is done, modify Johns's user profile and assign the appropriate administrative privileges.
 - Ensure that his machine allows him remote access
 
-<img width="300" alt="rdp" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/84e3c864-1470-4f0c-af22-3135d8694dee">
+<img width="300" alt="rdp" src="https://i.imgur.com/5kZlIh6.png">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
