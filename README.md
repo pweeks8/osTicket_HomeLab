@@ -54,7 +54,7 @@
 
 
 
-<p>James Holden, a senior software developer, has successfully obtained approval for elevated administrative rights. As the IT administrator, your task is to grant James the necessary permissions while ensuring a secure and controlled activation process.
+<p>John Jacob, a senior software developer, has successfully obtained approval for elevated administrative rights. As the IT administrator, your task is to grant John the necessary permissions while ensuring a secure and controlled activation process.
 </p>
 
 <br>
